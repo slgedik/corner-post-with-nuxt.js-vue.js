@@ -1,0 +1,44 @@
+[
+  {
+    "name": "admin",
+    "path": "/admin",
+    "component": "C:\\\\Users\\\\slged\\\\Desktop\\\\kose2\\\\kose-yazisi\\\\pages\\\\admin\\\\index.vue",
+    "chunkName": "pages/admin/index",
+    "_name": "_546e1c26"
+  },
+  {
+    "name": "posts",
+    "path": "/posts",
+    "component": "C:\\\\Users\\\\slged\\\\Desktop\\\\kose2\\\\kose-yazisi\\\\pages\\\\posts\\\\index.vue",
+    "chunkName": "pages/posts/index",
+    "_name": "_c9e2822e"
+  },
+  {
+    "name": "admin-new-post",
+    "path": "/admin/new-post",
+    "component": "C:\\\\Users\\\\slged\\\\Desktop\\\\kose2\\\\kose-yazisi\\\\pages\\\\admin\\\\new-post.vue",
+    "chunkName": "pages/admin/new-post",
+    "_name": "_2a420662"
+  },
+  {
+    "name": "admin-postId",
+    "path": "/admin/:postId",
+    "component": "C:\\\\Users\\\\slged\\\\Desktop\\\\kose2\\\\kose-yazisi\\\\pages\\\\admin\\\\_postId\\\\index.vue",
+    "chunkName": "pages/admin/_postId/index",
+    "_name": "_6b4e78e6"
+  },
+  {
+    "name": "posts-postId",
+    "path": "/posts/:postId",
+    "component": "C:\\\\Users\\\\slged\\\\Desktop\\\\kose2\\\\kose-yazisi\\\\pages\\\\posts\\\\_postId\\\\index.vue",
+    "chunkName": "pages/posts/_postId/index",
+    "_name": "_2123d211"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\slged\\\\Desktop\\\\kose2\\\\kose-yazisi\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_2af8fe10"
+  }
+]

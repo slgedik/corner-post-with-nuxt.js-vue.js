@@ -1,0 +1,29 @@
+{
+  "NuxtLogo": {
+    "description": "Auto imported from components/NuxtLogo.vue"
+  },
+  "Tutorial": {
+    "description": "Auto imported from components/Tutorial.vue"
+  },
+  "AdminPostFrom": {
+    "description": "Auto imported from components/admin/PostFrom.vue"
+  },
+  "CommonBanner": {
+    "description": "Auto imported from components/common/Banner.vue"
+  },
+  "CommonHeader": {
+    "description": "Auto imported from components/common/Header.vue"
+  },
+  "HomeAbout": {
+    "description": "Auto imported from components/home/About.vue"
+  },
+  "Post": {
+    "description": "Auto imported from components/post/Post.vue"
+  },
+  "PostDetail": {
+    "description": "Auto imported from components/post/PostDetail.vue"
+  },
+  "PostList": {
+    "description": "Auto imported from components/post/PostList.vue"
+  }
+}
