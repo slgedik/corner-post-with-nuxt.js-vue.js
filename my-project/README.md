@@ -1,4 +1,4 @@
-# kose-yazisi2
+
 
 ## Build Setup
 
